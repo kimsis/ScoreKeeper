@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Point Counter</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="Score">0</string>
+    <string name="Touchdown">Touchdown +6</string>
+    <string name="FieldGoal">Field Goal +3</string>
+    <string name="SafeTry2">Safety/Try +2</string>
+    <string name="reset">reset</string>
+    <string name="Try1">Try for +1</string>
+    <string name="Try2">Try for +2</string>
+    <string name="foul">0</string>
+
+</resources>
